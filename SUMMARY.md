@@ -10,3 +10,4 @@
 * [Marketing Automation](marketing-automation.md)
 * [Payments & Payouts](payments-and-payouts.md)
 * [Analytics & Scaling](analytics-and-scaling.md)
+* [Copy Paste Millionaire — Primary Campaign](copy-paste-millionaire-primary-campaign.md)
